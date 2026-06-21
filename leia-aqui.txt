@@ -1,0 +1,4 @@
+Adicione aqui:
+- imagens/ — peças, etapas de desmontagem/montagem e ferramentas
+- audio/ — dicas de diagnóstico por ruído
+- planilhas/ — cálculo de custos e ficha de serviço
